@@ -1,0 +1,6 @@
+SAITS_desvio,USGAN_desvio,GPVAE_desvio,BRITIS_desvio,MRNN_desvio,Porcentagem_faltante,função 
+: 0.001232,: 0.000820,:0.004575,:0.000532,: 0.005603,10,"dataset.std(axis=0, skipna=True, ddof=1, numeric_only=False)"
+: 0.001420,: 0.000889,:0.015305,:0.000506,:0.005094,20,"dataset.std(axis=0, skipna=True, ddof=1, numeric_only=False)"
+: 0.001503,: 0.001099,: 0.013247,:0.000658,:0.005511,30,"dataset.std(axis=0, skipna=True, ddof=1, numeric_only=False)"
+: 0.002271,: 0.001310,: 0.012792,:0.000660,:0.005180,40,"dataset.std(axis=0, skipna=True, ddof=1, numeric_only=False)"
+: 0.002863,: 0.001602,: 0.011812,:0.000800,: 0.005245,50,"dataset.std(axis=0, skipna=True, ddof=1, numeric_only=False)"

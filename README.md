@@ -31,3 +31,9 @@ No arquivo zip do OneDrive, você encontrará diversos recursos úteis para a re
 - **Formatação para Conferências**: Para aqueles que desejam submeter seus trabalhos a conferências, recomenda-se utilizar o formato do IEEE como referência, mas sempre consultar o professor orientador escolhido.
 
 Para mais informações, confira o conteúdo detalhado no arquivo zip disponível no OneDrive.
+
+## Links Importantes
+
+- **Link para apresentação da defesa (03/06/2024)**: [Apresentação da Defesa](https://www.canva.com/design/DAGFys1va3I/pUcoziu2dOtAZItqQXyzdQ/edit?utm_content=DAGFys1va3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Link para o banner**: [Banner do TCC](https://www.canva.com/design/DAGGeZWhDXM/Kg8L9HaoOyGHbnNzXJBLSw/edit?utm_content=DAGGeZWhDXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **template do banner**: [Template Banner](https://www.canva.com/design/DAFiX6kjrfA/nI50-DSlMRJaUZS89YFLSQ/edit?utm_content=DAFiX6kjrfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O estudo de séries temporais é crucial em várias áreas, pois oferece ferramentas analíticas para compreender, modelar e prever padrões em dados que evoluem ao longo do tempo. No entanto, problemas na captura de dados podem resultar em dados faltantes, dificultando a aplicação de técnicas de Aprendizado de Máquina. Neste trabalho, nosso objetivo é analisar diferentes métodos de imputação em uma base de dados reais do desafio PhysioNet 2012, a fim de avaliar o desempenho desses métodos em diferentes porcentagens de dados faltantes.
+O estudo de séries temporais é fundamental em uma variedade de campos, pois fornece ferramentas analíticas úteis para compreender, modelar e prever padrões em dados que evoluem ao longo do tempo. Infelizmente, problemas no processo de captação dos dados podem ocasionar em dados faltantes, dificultando a aplicação de técnicas de Aprendizado de Máquina sobre estes conjuntos de dados. Nosso objetivo é analisar diferentes métodos de imputação em uma  base de dados reais, proveniente do desafio PhysioNet 2012 com o intuito de avaliar o desempenho desses métodos considerando diferentes porcentagens de dados faltantes.
 
 # Análise de Séries Temporais Multivariadas
 
@@ -34,6 +34,6 @@ Para mais informações, confira o conteúdo detalhado no arquivo zip disponíve
 
 ## Links Importantes
 
-- **Link para apresentação da defesa (03/06/2024)**: [Apresentação da Defesa](https://www.canva.com/design/DAGFys1va3I/pUcoziu2dOtAZItqQXyzdQ/edit?utm_content=DAGFys1va3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- **Link para o banner**: [Banner do TCC](https://www.canva.com/design/DAGGeZWhDXM/Kg8L9HaoOyGHbnNzXJBLSw/edit?utm_content=DAGGeZWhDXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Link para apresentação da defesa (03/06/2024)**: [Apresentação da Defesa](https://www.canva.com/design/DAGFys1va3I/wBltdRdgj5eG9koqB8TChA/view?utm_content=DAGFys1va3I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- **Link para o banner**: [Banner do TCC](https://www.canva.com/design/DAGGeZWhDXM/h7bDv5NLEAv6X5I8GuWTqg/view?utm_content=DAGGeZWhDXM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - **template do banner**: [Template Banner](https://www.canva.com/design/DAFiX6kjrfA/nI50-DSlMRJaUZS89YFLSQ/edit?utm_content=DAFiX6kjrfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
